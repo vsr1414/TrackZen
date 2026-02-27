@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h2>Welcome to </h2>
+      <h2>Welcome to Kingsman Dashboards</h2>
       <h1>TrackZen</h1>
     </>
   )
