@@ -1,12 +1,14 @@
 import './App.css'
+import AddTask from './components/add-task'
+import Header from './components/header'
 
 function App() {
 
   return (
-    <>
-      <h2>Welcome to Kingsman Dashboards</h2>
-      <h1>TrackZen</h1>
-    </>
+    <div className="bg-image">
+      <Header />
+      <AddTask />
+    </div>
   )
 }
 
